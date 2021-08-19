@@ -1,18 +1,13 @@
-import Header from "./components/Header";
-import ButtonSendMoney from "./components/ButtonSendMoney";
-import ButtonWithdraw from "./components/ButtonWithdraw";
-import ButtonDeposit from "./components/ButtonDeposit";
-// import TransactionHistory from "./components/TransactionHistory";
+import React from "react";
+import Header from "./components/Header.js";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
-    <div className="bg-blue-200">
+    <>
+      <NavBar />
       <Header />
-      <ButtonSendMoney />
-      <ButtonWithdraw />
-      <ButtonDeposit />
-      {/* <TransactionHistory /> */}
-    </div>
+    </>
   );
 }
 
