@@ -13,12 +13,13 @@ export default function Navbar({ fixed }) {
             >
               10Q Banks
             </a>
+
             <button
               className="text-white cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
               type="button"
               onClick={() => setNavbarOpen(!navbarOpen)}
             >
-              <i className="fas fa-bars"></i>
+              <i className="fas fa-bars">|||</i>
             </button>
           </div>
           <div
@@ -34,8 +35,8 @@ export default function Navbar({ fixed }) {
                   className="px-3 py-2 flex items-center text-xs uppercase font-bold leading-snug text-white hover:opacity-75"
                   href="#change-user"
                 >
-                  <i className="fab fa-facebook-square text-lg leading-lg text-white opacity-75"></i>
-                  <span className="ml-2">Change User</span>
+                  <i className="text-lg leading-lg text-white opacity-75"></i>
+                  <span className="ml-2">Add/Change User</span>
                 </a>
               </li>
             </ul>
