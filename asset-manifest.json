@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bank-app/static/css/main.a4122683.chunk.css",
-    "main.js": "/bank-app/static/js/main.1be895ee.chunk.js",
-    "main.js.map": "/bank-app/static/js/main.1be895ee.chunk.js.map",
+    "main.css": "/bank-app/static/css/main.8b769eda.chunk.css",
+    "main.js": "/bank-app/static/js/main.a2fde528.chunk.js",
+    "main.js.map": "/bank-app/static/js/main.a2fde528.chunk.js.map",
     "runtime-main.js": "/bank-app/static/js/runtime-main.aa315000.js",
     "runtime-main.js.map": "/bank-app/static/js/runtime-main.aa315000.js.map",
     "static/js/2.bdac2fb6.chunk.js": "/bank-app/static/js/2.bdac2fb6.chunk.js",
     "static/js/2.bdac2fb6.chunk.js.map": "/bank-app/static/js/2.bdac2fb6.chunk.js.map",
     "index.html": "/bank-app/index.html",
-    "static/css/main.a4122683.chunk.css.map": "/bank-app/static/css/main.a4122683.chunk.css.map",
+    "static/css/main.8b769eda.chunk.css.map": "/bank-app/static/css/main.8b769eda.chunk.css.map",
     "static/js/2.bdac2fb6.chunk.js.LICENSE.txt": "/bank-app/static/js/2.bdac2fb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aa315000.js",
     "static/js/2.bdac2fb6.chunk.js",
-    "static/css/main.a4122683.chunk.css",
-    "static/js/main.1be895ee.chunk.js"
+    "static/css/main.8b769eda.chunk.css",
+    "static/js/main.a2fde528.chunk.js"
   ]
 }
