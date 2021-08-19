@@ -8,7 +8,7 @@ function Header() {
       <div className="p-5 ">
         <h1 className="text-gray 900">Hello,</h1>
         <h2 className="font-bold mb-2 text-xl text-gray-800">User!</h2>
-        <div className="bg-white p-5 rounded-2xl shadow-lg w-1/2 md:w-1/4 mx-auto text-left">
+        <div className="bg-white p-5 rounded-2xl shadow-lg  md:w-1/3 mx-auto text-left">
           <p className="text-gray-700">Balance</p>
           <p className="text-2xl text-gray-700 text-center font-bold m-2">
             {balance}
